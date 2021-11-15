@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ToDo</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_item">Add Item</string>
+    <string name="item_name">Item name</string>
+    <string name="deadline">DeadLine</string>
+    <string name="submit">Submit</string>
+    <string name="remove_item">Remove item</string>
+    <string name="edit_item">Edit item</string>
+    <string name="todo_item">Todo Item</string>
+    <string name="todo_list">Todo List</string>
+    <string name="no_items">No Items</string>
+    <string name="DATE_FORMAT">dd/MM/yy</string>
+    <string name="UN_KNOWN_CLASS">Unknown ViewModel class</string>
+    <string name="FILL_FIELDS">Kindly fill all fields.</string>
+    <string name="INVALID_DATE">Dead Line must not be older than current</string>
+    <string name="fab">fab</string>
+    <string name="UPDATED">updated</string>
+</resources>
